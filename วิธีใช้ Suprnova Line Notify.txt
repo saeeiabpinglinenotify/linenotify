@@ -1,0 +1,12 @@
+********สำคัญมาก : ยังไม่ได้ทดสอบกับการ์ดจอ AMD
+
+วิธีใช้
+1. เปิดไฟล์ LineNotify.exe.config โดยใช้ โปรแกรม notepad
+2. แก้ไข config ดังนี้
+   - 2.1 LINE_TOKEN คือ Line Token
+   - 2.2 SUPRNOVA_APIKEY คือ Api key ที่ได้จากเว็ป Suprnova หน้า Edit Account
+   - 2.3 SUPRNOVA_COIN คือ สกุลเหรียญที่ต้องการให้แจ้งเตือน (ตัวอย่าง sigt)
+   - 2.4 SUPRNOVA_TIME คือ ต้องการให้แจ้งเตือนทุกๆกี่นาที //หน่วยเป็นนาที (ตัวอย่าง 5)
+3. กด Save
+4. ดับเบิ้ลคลิก ที่ไฟล์ LineNotify.exe (รูประฆัง) เพื่อเริ่มการทำงาน
+Enjoy!!!!
